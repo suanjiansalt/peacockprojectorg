@@ -27,6 +27,16 @@ If it was **red**, it failed, read below for some common issues and their fixes.
 
 ## Common Issues
 
+### Non-transferable data
+
+We support transferring most of the data. However, those following data are not included as they don't appear in the applicable game version:
+
+* Elusive Target challenges that doesn't appear in the version of game are not included, for example, _The Forger_ for Hitman 2.
+  * Note that for Hitman 3/WoA, Peacock only admits Year 1 version, so _The Forger_ (has Year 2/3/4 versions only) is also not included.
+  * _The Undying Returns (2024)_ doesn't be seen as _The Undying Returns_ in Hitman 2. _Elusive Target Miami_ challenge is also not included since it's different from the official. But the challenge _Repeat. Death. Blind._ is included.
+* Legacy (Hitman 2016 exclusive) escalations are not included.
+* Peacock exclusive challenges are inevitably wiped out when transferred.
+
 ### Failed to get official authentication data
 
 **IF YOU DID NOT CONNECT TO PEACOCK FIRST**: Go back to step 1 with your reading glasses on.
